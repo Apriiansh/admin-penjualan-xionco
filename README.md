@@ -13,6 +13,21 @@ This project implements a simple administration system for managing product purc
     -   Cancel existing purchase orders.
 -   **Admin Interface:** A dedicated web interface for administrative tasks.
 
+# Admin Pembelian System
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Admin Pembelian Page
+![Admin Pembelian Page](docs/images/img1.png)
+
+### New Pembelian Page
+![New Pembelian Page](docs/images/img2.png)
+
+### Product List
+![Product List](docs/images/img3.png)
+
 ## Technologies Used
 
 ### Backend
@@ -134,4 +149,3 @@ This project implements a simple administration system for managing product purc
 -   Open your web browser and navigate to `http://localhost:3000` (or wherever your frontend is running).
 -   Access the admin purchase page at `/admin/pembelian` to view existing purchases and add new ones.
 -   Use the provided interface to input new purchase data or cancel purchases.
-
