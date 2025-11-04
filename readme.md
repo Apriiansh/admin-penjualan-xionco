@@ -13,6 +13,21 @@ This project implements a simple administration system for managing product purc
     -   Cancel existing purchase orders.
 -   **Admin Interface:** A dedicated web interface for administrative tasks.
 
+# Admin Pembelian System
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Admin Pembelian Page
+![Admin Pembelian Page](docs/images/img1.png)
+
+### New Pembelian Page
+![New Pembelian Page](docs/images/img2.png)
+
+### Product List
+![Product List](docs/images/img3.png)
+
 ## Technologies Used
 
 ### Backend
