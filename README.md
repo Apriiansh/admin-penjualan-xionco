@@ -19,14 +19,14 @@ This project implements a simple administration system for managing product purc
 
 Here are some screenshots of the application:
 
-### Admin Pembelian Page
-![Admin Pembelian Page](img/img1.png)
+### Admin Daftar Produk Page
+![Admin Daftar Produk Page](img/img1.png)
+
+### Daftar Pembelian Page
+![Daftar Pembelian Page](img/img2.png)
 
 ### New Pembelian Page
-![New Pembelian Page](img/img2.png)
-
-### Product List
-![Product List](img/img3.png)
+![New Pembelian Page](img/img3.png)
 
 ## Technologies Used
 
